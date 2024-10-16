@@ -7,7 +7,20 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+<<<<<<< Updated upstream
           Archi's Academy derslerine hoşgeldiniz ! "Bu bir deneme ve etkinlik sayfasıdır"
+=======
+          HOŞGELDİNİZ !
+        </p>
+        <p>
+          Yeni eklenti 
+        </p>
+        <p>
+          Yeni eklenti 2
+        </p>
+        <p>
+          Archi's Academy derslerine hoşgeldiniz ! "Bu bir deneme sayfasıdır"
+>>>>>>> Stashed changes
         </p>
         <a
           className="App-link"
