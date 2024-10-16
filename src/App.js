@@ -19,7 +19,7 @@ function App() {
           Yeni eklenti 3
         </p>
         <p>
-          Archi's Academy derslerine hoşgeldiniz ! "Bu bir deneme sayfasıdır"
+          Archi's Academy derslerine hoşgeldiniz ! "Bu bir deneme ve etkinlik sayfasıdır"
         </p>
         <a
           className="App-link"
