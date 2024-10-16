@@ -7,18 +7,6 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          HOŞGELDİNİZ !
-        </p>
-        <p>
-          Yeni eklenti 
-        </p>
-        <p>
-          Yeni eklenti 2
-        </p>
-        <p>
-          Yeni eklenti 3
-        </p>
-        <p>
           Archi's Academy derslerine hoşgeldiniz ! "Bu bir deneme ve etkinlik sayfasıdır"
         </p>
         <a
